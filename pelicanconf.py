@@ -31,7 +31,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 
-THEME = "pelican-themes-master/basic"
+THEME = "pelican-themes-master/mnmlist"
 
 
 PATH = 'content'
